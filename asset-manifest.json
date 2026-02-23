@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MoeAlr/COMP2156.git/static/css/main.27ca76a1.css",
-    "main.js": "/MoeAlr/COMP2156.git/static/js/main.2cc0763d.js",
-    "static/js/453.0f798570.chunk.js": "/MoeAlr/COMP2156.git/static/js/453.0f798570.chunk.js",
-    "index.html": "/MoeAlr/COMP2156.git/index.html",
-    "main.27ca76a1.css.map": "/MoeAlr/COMP2156.git/static/css/main.27ca76a1.css.map",
-    "main.2cc0763d.js.map": "/MoeAlr/COMP2156.git/static/js/main.2cc0763d.js.map",
-    "453.0f798570.chunk.js.map": "/MoeAlr/COMP2156.git/static/js/453.0f798570.chunk.js.map"
+    "main.css": "/COMP2156/static/css/main.27ca76a1.css",
+    "main.js": "/COMP2156/static/js/main.5c538417.js",
+    "static/js/453.0f798570.chunk.js": "/COMP2156/static/js/453.0f798570.chunk.js",
+    "index.html": "/COMP2156/index.html",
+    "main.27ca76a1.css.map": "/COMP2156/static/css/main.27ca76a1.css.map",
+    "main.5c538417.js.map": "/COMP2156/static/js/main.5c538417.js.map",
+    "453.0f798570.chunk.js.map": "/COMP2156/static/js/453.0f798570.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27ca76a1.css",
-    "static/js/main.2cc0763d.js"
+    "static/js/main.5c538417.js"
   ]
 }
